@@ -20,6 +20,7 @@ ZIDIO/
 │ ├── 2_preprocessing_visuals.py # Clean data & visualize trends
 
 │ └── 3_arima_forecasting.py # Forecast prices using ARIMA
+
 ├── 4_forecast_sarima.py # Seasonal ARIMA
 
 │ ├── 5_forecast_prophet.py # Prophet model
@@ -35,6 +36,8 @@ ZIDIO/
 ├── sarima_forecast.png # SARIMA forecast
 
 │ ├── prophet_forecast.png # Prophet forecast
+
+| ├── lstm.png
 
 ├── .venv/ # Python virtual environment (optional)
 
@@ -58,6 +61,10 @@ ZIDIO/
 
 ### 🔹 Prophet Forecast vs Actual
 ![Prophet Forecast](prophet_forecast.png)
+
+### 🔹 LSTM vs Actual 
+![LSTM Forecast](lstm.png)
+
 
 
 
