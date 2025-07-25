@@ -54,10 +54,10 @@ ZIDIO/
 ![ARIMA Forecast](arima_forecast.png)
 
 ### 🔹 SARIMA Forecast vs Actual
-![SARIMA Forecast](visuals/sarima_forecast.png)
+![SARIMA Forecast](sarima_forecast.png)
 
 ### 🔹 Prophet Forecast vs Actual
-![Prophet Forecast](visuals/prophet_forecast.png)
+![Prophet Forecast](prophet_forecast.png)
 
 
 
