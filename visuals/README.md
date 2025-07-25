@@ -8,27 +8,29 @@ This project focuses on analyzing and forecasting the stock prices of Apple Inc.
 
 ZIDIO/
 ├── data/
+
 │ └── AAPL_stock.csv # Collected stock data (2015–2024)
 
 ├── notebooks/
+
 │ ├── 1_data_collection.py # Download data using yfinance
+
 │ ├── 2_preprocessing_visuals.py # Clean data & visualize trends
+
 │ └── 3_arima_forecasting.py # Forecast prices using ARIMA
 
 ├── visuals/
+
 │ ├── close_price_plot.png # AAPL closing price plot
+
 │ └── arima_forecast.png # ARIMA forecast vs actual
 
 ├── .venv/ # Python virtual environment (optional)
+
 └── README.md # Project documentation
 
 ---
 
-## 📊 Visual Outputs
-
-## 📊 Visual Outputs
-
-## 📊 Visual Outputs
 
 ## 📊 Visual Outputs
 
@@ -82,4 +84,4 @@ scikit-learn
 
 📉 Data Source: Yahoo Finance
 
-🎓 Internship: ZIDIO – Data Science and Analytics Program
+🎓 Internship: Zidio Development – Data Science and Analytics Program
