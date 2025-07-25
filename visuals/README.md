@@ -63,7 +63,7 @@ ZIDIO/
 ![Prophet Forecast](prophet_forecast.png)
 
 ### 🔹 LSTM vs Actual 
-![LSTM Forecast](LSTM.png)
+![LSTM Forecast](image.png)
 
 
 
@@ -82,6 +82,7 @@ python notebooks/2_preprocessing_visuals.py
 python notebooks/3_arima_forecasting.py
 python notebooks/4_forecast_sarima.py
 python notebooks/5_forecast_prophet.py
+python notebooks/lstm.py
 
 📈 Model Details
 
@@ -90,6 +91,8 @@ Model: ARIMA (5, 1, 0)
 SARIMA – seasonal pattern extension
 
 Prophet – handles trend + seasonality
+
+lstm - leverages deep learning to capture long-term dependencies in sequential stock price data
 
 Data Period: Jan 2015 – Dec 2024
 
