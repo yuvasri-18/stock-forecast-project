@@ -63,7 +63,7 @@ ZIDIO/
 ![Prophet Forecast](prophet_forecast.png)
 
 ### 🔹 LSTM vs Actual 
-![LSTM Forecast](lstm.png)
+![LSTM Forecast](LSTM.png)
 
 
 
